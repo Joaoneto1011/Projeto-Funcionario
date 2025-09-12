@@ -52,6 +52,7 @@ Quantidade de contratos: 2
 ---
 
 Contrato 1:
+
 Data: 15/09/2025
 
 Valor por hora: 50.00
@@ -61,6 +62,7 @@ Horas: 10
 ---
 
 Contrato 2:
+
 Data: 20/09/2025
 
 Valor por hora: 60.00
