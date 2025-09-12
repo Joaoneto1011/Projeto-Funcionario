@@ -69,6 +69,8 @@ Valor por hora: 60.00
 
 Horas: 5
 
+---
+
 Mês/Ano para cálculo da renda: 09/2025
 
 ---
