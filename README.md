@@ -49,12 +49,16 @@ Salário Base: 3000.00
 
 Quantidade de contratos: 2
 
+---
+
 Contrato 1:
 Data: 15/09/2025
 
 Valor por hora: 50.00
 
 Horas: 10
+
+---
 
 Contrato 2:
 Data: 20/09/2025
@@ -65,6 +69,7 @@ Horas: 5
 
 Mês/Ano para cálculo da renda: 09/2025
 
+---
 
 Saída no Terminal:
 
