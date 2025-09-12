@@ -88,8 +88,11 @@ Renda para 09/2025: 3800.00
 👨‍💻 Autor
 
 João Neto
+
 neto31510@gmail.com
+
 (34) 99683-2626
+
 https://www.linkedin.com/in/joao-rodrigues-neto-855757293
 
 ---
