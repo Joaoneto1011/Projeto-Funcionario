@@ -14,7 +14,6 @@ O sistema permite cadastrar funcionários, departamentos, contratos por hora e c
 - Exibição de informações completas no terminal: nome, departamento e renda do mês informado.
 
 ---
-
 ## 🔹 Classes e Pacotes
 
 | Classe / Pacote | Descrição |
@@ -24,6 +23,7 @@ O sistema permite cadastrar funcionários, departamentos, contratos por hora e c
 | `ContratoPorHora` | Registra contratos adicionais de um funcionário, incluindo data, quantidade de horas trabalhadas e valor por hora. |
 | `NivelTrabalhador` (enum) | Enum que define os níveis do funcionário: `JUNIOR`, `PLENO` e `SENIOR`. |
 | `ProgramaPrincipal` | Classe principal que integra todas as funcionalidades, realiza entradas do usuário e exibe saídas no terminal. |
+
 
 ---
 
