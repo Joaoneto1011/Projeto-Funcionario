@@ -15,13 +15,15 @@ O sistema permite cadastrar funcionários, departamentos, contratos por hora e c
 
 ---
 
-### 🔹 Classes e Pacotes
+## 🔹 Classes e Pacotes
 
-- **Departamento** → Modela os departamentos da empresa.  
-- **Funcionario** → Representa um funcionário, seus dados, contratos e cálculo de renda.  
-- **ContratoPorHora** → Registra contratos adicionais com data, horas trabalhadas e valor por hora.  
-- **NivelTrabalhador (enum)** → Define os níveis do funcionário: JUNIOR, PLENO, SENIOR.  
-- **ProgramaPrincipal** → Classe principal que integra todas as funcionalidades e realiza entradas e saídas no terminal.
+| Classe / Pacote | Descrição |
+|-----------------|-----------|
+| `Departamento` | Modela os departamentos da empresa, com informações como nome do departamento. |
+| `Funcionario` | Representa um funcionário, armazenando seus dados pessoais, nível, contratos e realizando cálculo de renda. |
+| `ContratoPorHora` | Registra contratos adicionais de um funcionário, incluindo data, quantidade de horas trabalhadas e valor por hora. |
+| `NivelTrabalhador` (enum) | Enum que define os níveis do funcionário: `JUNIOR`, `PLENO` e `SENIOR`. |
+| `ProgramaPrincipal` | Classe principal que integra todas as funcionalidades, realiza entradas do usuário e exibe saídas no terminal. |
 
 ---
 
